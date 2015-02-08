@@ -522,7 +522,7 @@
         <ObjectID>1</ObjectID>
         <LinkID>3</LinkID>
         <LaneIndex>0</LaneIndex>
-        <Start></Start>
-        <End></End>
+        <Start>5</Start>
+        <End>6</End>
     </Barrier>
 </Data>
